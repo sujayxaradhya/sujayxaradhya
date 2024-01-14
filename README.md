@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Engineer | Developer | Designer
 ------------------------------------------------
 
-I am a passionate technology-driven entrepreneur with 9+ years of experience in programming, entrepreneurship, designing. I'm a Computer Science Engineer, Developer, IoT Developer, Data Scientist (awarded by Harvard University), AI/ML enthusiast, and Designer. Learning Bio-Tech & Startup Ecosystem. I was also got selected in highly competitive hackathon HackGT8. Then, in 2022 I got an opportunity to serve as a judge for the global hackathon event BLUEPRINT2022 hosted by the Massachusetts Institute of Technology(MIT), and it was really an exhilarating experience as I had the opportunity to assess a plethora of innovative projects. I have expertise in ReactJS, JavaScript, TypeScript, Redux, Rust, Python, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, TypeORM, DrizzleORM, Next.js, Zustand, TailwindCSS, CSS/SCSS and learning more to help brands and businesses thrive in today's digital landscape.
+I am a passionate technology-driven entrepreneur with 9+ years of experience in programming, entrepreneurship, designing. I'm a Computer Science Engineer, Developer, IoT Developer, Data Scientist (awarded by Harvard University), AI/ML enthusiast, and Designer. Learning Bio-Tech & Startup Ecosystem. I was also got selected in highly competitive hackathon HackGT8. Then, in 2022 I got an opportunity to serve as a judge for the global hackathon event BLUEPRINT2022 hosted by the Massachusetts Institute of Technology(MIT), and it was really an exhilarating experience as I had the opportunity to assess a plethora of innovative projects. I have expertise in ReactJS, JavaScript, TypeScript, Redux, Golang, Rust, Python, Node.js, Express.js, Nest.js, MongoDB, PostgreSQL, TypeORM, DrizzleORM, Next.js, Zustand, TailwindCSS, CSS/SCSS and learning more to help brands and businesses thrive in today's digital landscape.
 
 * 🌍  I'm based in India
 * ✉️  Feel free to reach out to me by sending an [email](mailto:sudhanshushukla902@gmail.com)
-* 🧠  I'm learning Remix.js, GraphQL, React Native, Three.js, and WebGL
+* 🧠  I'm learning Golang, Remix.js, React Native, Three.js, and WebGL
 
 ### Skills
 
@@ -37,6 +37,7 @@ I am a passionate technology-driven entrepreneur with 9+ years of experience in 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored.svg" width="36" height="36" alt="Appwrite" /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
