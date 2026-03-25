@@ -8,7 +8,7 @@ I am a passionate technology-driven entrepreneur with 9+ years of experience in 
 
 * 🌍  I'm based in India
 * ✉️  Feel free to reach out to me by sending an [email](mailto:sudhanshushukla902@gmail.com)
-* 🧠  I'm learning Golang, Remix.js, React Native, Three.js, and WebGL
+* 🧠  I'm learning Svelte, Three.js, and WebGL
 
 ### Skills
 
